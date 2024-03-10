@@ -1,16 +1,126 @@
-# test
+<a id="readme-top"></a>
+<div align="center">
+  <h2 align="center">Đồ án tốt nghiệp</h2>
 
-A new Flutter project.
+  <p align="center">
+    Môn học CT550 - Luận văn - CNTT
+  </p>
+  <h3 align="center">
+    Hệ thống quản lý nhà hàng đa nền tảng
+  </h3>
+  <p align="center">
+    <a href="/README.md">Tiếng Việt </a>
+    ·
+    <a href="/docs/readme_en.md">English</a>
+  </p>
+  <p align="center">
+    <img alt="GitHub Contributors" src="https://img.shields.io/github/contributors/cqminh/RestaurantPOS_WinApp" />
+    <img alt="Issues" src="https://img.shields.io/github/issues/cqminh/RestaurantPOS_WinApp?color=0088ff" />
+    <img alt="GitHub pull requests" src="https://img.shields.io/github/issues-pr/cqminh/RestaurantPOS_WinApp" />
+    <img alt="Star" src="https://img.shields.io/github/stars/cqminh/RestaurantPOS_WinApp" />
+  </p>
+</div>
 
-## Getting Started
+<details>
+  <summary>Nội dung bài</summary>
+  <ol>
+    <li><a href="#mô-tả-ngắn">Mô tả ngắn</a></li>
+    <li><a href="#công-nghệ-được-sử-dụng">Công nghệ được sử dụng</a></li>
+    <li>
+      <a href="#chức-năng">Chức năng</a>
+    </li>
+    <li>
+      <a href="#giao-diện-của-app">Giao diện</a>
+    </li>
+    <li><a href="#ghi-chú-khác-khi-sử-dụng">Ghi chú</a></li>
+  </ol>
+</details>
 
-This project is a starting point for a Flutter application.
+#### Mô tả ngắn
+Luận văn là một hệ thống quản lý nhà hàng đa nền tảng hỗ trợ sử dụng trên các hệ điều hành Android và Window. Server được xây dựng dựa trên *Odoo 16*, và phần ứng dụng hỗ trợ được viết bằng *Flutter*. Và nổi bật nhất của hệ thống là chức năng kết nối với máy in và xuất báo cáo Excel.
 
-A few resources to get you started if this is your first Flutter project:
+#### Công nghệ được sử dụng
+<div align="center">
+  <p align="center">
+    <img alt="Odoo" src="https://img.shields.io/badge/Odoo-9B4686?logo=odoo&logoColor=white" />
+    <img alt="Flutter" src="https://img.shields.io/badge/Flutter-59C7F8?logo=flutter&logoColor=white" />
+  </p>
+</div>
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+#### Chức năng
+*Các chức năng có trên App của Windows*
+- Đăng nhập.
+- Tạo/chỉnh sửa đơn hàng.
+- Chỉnh sửa giá trên đơn hàng.
+- Thêm khuyến mãi cho đơn hàng.
+- Lưu thông tin khách hàng cho đơn hàng.
+- Chuyển bàn.
+- In tạm tính.
+- Thanh toán/In hoá đơn.
+- Xuất báo cáo Excel cho đơn hàng và doanh thu.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+#### Giao diện của app
+##### Giao diện bán hàng
+##### Giao diện báo cáo
+
+Đăng nhập
+
+![general](/screenshot/ss1.png)
+
+Danh sách điểm bán hàng
+
+![general](/screenshot/ss2.png)
+
+Danh sách chi nhánh
+
+![general](/screenshot/ss3.png)
+
+Cấu hình chi nhánh
+
+![general](/screenshot/ss4.png)
+
+Cấu hình điểm bán hàng
+
+![general](/screenshot/ss5.png)
+
+Danh sách khu vực
+
+![general](/screenshot/ss6.png)
+
+Cấu hình khu vực
+
+![general](/screenshot/ss7.png)
+
+Danh sách bàn
+
+![general](/screenshot/ss8.png)
+
+Cấu hình bàn
+
+![general](/screenshot/ss9.png)
+
+Danh sách hoá đơn
+
+![general](/screenshot/ss10.png)
+
+Chi tiết một hoá đơn
+
+![general](/screenshot/ss11.png)
+
+Thống kê doanh số
+
+![general](/screenshot/ss12.png)
+
+Thống kê sản phẩm
+
+![general](/screenshot/ss13.png)
+
+#### Ghi chú khác khi sử dụng
+**Nếu bạn muốn cài đặt hệ thống,** liên hệ tôi tại [cqminh.it@gmail.com](mailto:cqminh.it@gmail.com)
+- Đi tới server Odoo [tại đây](https://github.com/cqminh/RestaurantPOS_OdooServer.git)
+- Đi tới app Android [tại đây](https://github.com/cqminh/RestaurantPOS_AndrApp.git)
+
+<p align="right">(<a href="#readme-top">về bên trên</a>)</p>
+
+<h6 align="center" style="font-weight: 600;">Cảm ơn đã ghé qua!./.</h6>
+
