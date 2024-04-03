@@ -67,53 +67,61 @@ Luận văn là một hệ thống quản lý nhà hàng đa nền tảng hỗ t
 
 ![general](/screenshot/ss1.png)
 
-Danh sách điểm bán hàng
+Chuyển hướng
 
 ![general](/screenshot/ss2.png)
 
-Danh sách chi nhánh
-
-![general](/screenshot/ss3.png)
-
-Cấu hình chi nhánh
-
-![general](/screenshot/ss4.png)
-
-Cấu hình điểm bán hàng
-
-![general](/screenshot/ss5.png)
-
-Danh sách khu vực
-
-![general](/screenshot/ss6.png)
-
-Cấu hình khu vực
-
-![general](/screenshot/ss7.png)
-
-Danh sách bàn
-
-![general](/screenshot/ss8.png)
-
-Cấu hình bàn
-
-![general](/screenshot/ss9.png)
-
-Danh sách hoá đơn
+Danh sách bàn - Đơn hàng chưa có sản phẩm
 
 ![general](/screenshot/ss10.png)
 
-Chi tiết một hoá đơn
+Danh sách sản phẩm - Đơn hàng đã có sản phẩm
+
+![general](/screenshot/ss3.png)
+
+Thêm ghi chú
+
+![general](/screenshot/ss4.png)
+
+Thêm hoặc sửa thông tin khách hàng
+
+![general](/screenshot/ss5.png)
+
+Chuyển bàn
+
+![general](/screenshot/ss6.png)
+
+Thanh toán
+
+![general](/screenshot/ss7.png)
+
+Báo cáo các hoá đơn
+
+![general](/screenshot/ss8.png)
+
+Báo cáo doanh thu
+
+![general](/screenshot/ss9.png)
+
+Phiếu gọi món
 
 ![general](/screenshot/ss11.png)
 
-Thống kê doanh số
+Phiếu tạm tính
 
 ![general](/screenshot/ss12.png)
 
-Thống kê sản phẩm
+Hoá đơn
 
 ![general](/screenshot/ss13.png)
+
+Báo cáo Excel hoá đơn cũ
+
+![general](/screenshot/ss14.png)
+
+Báo cáo Excel bán hàng
+
+![general](/screenshot/ss15.png)
 
 #### Ghi chú khác khi sử dụng
 **Nếu bạn muốn cài đặt hệ thống,** liên hệ tôi tại [cqminh.it@gmail.com](mailto:cqminh.it@gmail.com)

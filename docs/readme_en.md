@@ -67,53 +67,61 @@ Log in
 
 ![general](/screenshot/ss1.png)
 
-POS list
+Navigator
 
 ![general](/screenshot/ss2.png)
 
-Branch list
-
-![general](/screenshot/ss3.png)
-
-Configure branch
-
-![general](/screenshot/ss4.png)
-
-Configure POS
-
-![general](/screenshot/ss5.png)
-
-Area list
-
-![general](/screenshot/ss6.png)
-
-Configure area
-
-![general](/screenshot/ss7.png)
-
-Table list
-
-![general](/screenshot/ss8.png)
-
-Configure table
-
-![general](/screenshot/ss9.png)
-
-Orders list
+Table list - Order without product
 
 ![general](/screenshot/ss10.png)
 
-Order details
+Product list - Order with product
+
+![general](/screenshot/ss3.png)
+
+Add note
+
+![general](/screenshot/ss4.png)
+
+Add or edit customer infomation
+
+![general](/screenshot/ss5.png)
+
+Move table
+
+![general](/screenshot/ss6.png)
+
+Pay
+
+![general](/screenshot/ss7.png)
+
+Invoice report
+
+![general](/screenshot/ss8.png)
+
+Revenue report
+
+![general](/screenshot/ss9.png)
+
+Order ballot
 
 ![general](/screenshot/ss11.png)
 
-Revenue statistics
+Provisional ballot
 
 ![general](/screenshot/ss12.png)
 
-Product statistics
+Invoice
 
 ![general](/screenshot/ss13.png)
+
+Old orders excel report
+
+![general](/screenshot/ss14.png)
+
+Sales excel report
+
+![general](/screenshot/ss15.png)
 
 #### Others note for used
 **If you want to install this system,** please contact me on [cqminh.it@gmail.com](mailto:cqminh.it@gmail.com)
