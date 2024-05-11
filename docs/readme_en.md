@@ -31,6 +31,12 @@
     </li>
     <li>
       <a href="#interface">Interface</a>
+      <li>
+      <ul>
+        <li><a href="#sale-interface">Sale interface</a></li>
+        <li><a href="#report-interface">Report interface</a></li>
+      </ul>
+    </li>
     </li>
     <li><a href="#others-note-for-used">Others note for used</a></li>
   </ol>
@@ -61,7 +67,6 @@ The thesis is a multi-platform restaurant management system supporting usage on 
 
 #### Interface
 ##### Sale interface
-##### Report interface
 
 Log in
 
@@ -114,6 +119,8 @@ Provisional ballot
 Invoice
 
 ![general](/screenshot/ss13.png)
+
+##### Report interface
 
 Old orders excel report
 

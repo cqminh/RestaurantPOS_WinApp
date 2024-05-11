@@ -31,6 +31,10 @@
     </li>
     <li>
       <a href="#giao-diện-của-app">Giao diện</a>
+      <ul>
+        <li><a href="#giao-diện-bán-hàng">Giao diện bán hàng</a></li>
+        <li><a href="#giao-diện-báo-cáo">Giao diện báo cáo</a></li>
+      </ul>
     </li>
     <li><a href="#ghi-chú-khác-khi-sử-dụng">Ghi chú</a></li>
   </ol>
@@ -61,7 +65,6 @@ Luận văn là một hệ thống quản lý nhà hàng đa nền tảng hỗ t
 
 #### Giao diện của app
 ##### Giao diện bán hàng
-##### Giao diện báo cáo
 
 Đăng nhập
 
@@ -114,6 +117,8 @@ Phiếu tạm tính
 Hoá đơn
 
 ![general](/screenshot/ss13.png)
+
+##### Giao diện báo cáo
 
 Báo cáo Excel hoá đơn cũ
 
